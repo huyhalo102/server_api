@@ -1,0 +1,5 @@
+{"students": [ 
+    {"studentID":"SV001", "studentName":"Nguyen Van A","age": 20, "sex":true,"birthdate":"12/4/2001","birthPlace":"Ha Noi", "adress":"15, maidich"},
+    {"studentID":"SV002", "studentName":"Nguyen Van B","age": 21, "sex":false,"birthdate":"12/4/2001","birthPlace":"TP hcm", "adress":"20, Cau Giay"},
+    {"studentID":"SV003", "studentName":"Nguyen Van C","age": 22, "sex":true,"birthdate":"12/4/2001","birthPlace":"Ha Noi", "adress":"15, hoang hoa tham"}
+  ]}
